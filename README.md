@@ -89,3 +89,4 @@ section {
 <img width="679" alt="image" src="https://github.com/user-attachments/assets/7f19b3ef-eca9-4ac8-ab01-8af9a35d086f" />
 
 
+https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-danielguve/
